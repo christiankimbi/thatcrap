@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#F4F0FF"/>
+  <circle cx="32" cy="32" r="24" fill="#6B47E8" fill-opacity="0.12"/>
+  <!-- Shield outline -->
+  <path d="M32 16L45 21V33C45 41.5 39.5 47 32 49C24.5 47 19 41.5 19 33V21L32 16Z" fill="#6B47E8" fill-opacity="0.15" stroke="#6B47E8" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Checkmark -->
+  <path d="M26 32L30.5 36.5L38.5 27.5" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top star -->
+  <circle cx="32" cy="22" r="1.5" fill="#6B47E8"/>
+</svg>

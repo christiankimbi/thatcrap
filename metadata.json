@@ -1,0 +1,6 @@
+{
+  "name": "Madhibha eHub",
+  "description": "Madhibha ehub is a South African app that supercharges economic activity and participation by linking disenfranchised youth to corporate South Africa through skills development and job opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

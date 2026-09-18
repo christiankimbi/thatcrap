@@ -1,0 +1,15 @@
+{
+  "name": "madhibha-ehub",
+  "version": "1.0.0",
+  "description": "Madhibha eHub - Connecting people to unlock opportunities",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node build.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

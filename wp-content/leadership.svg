@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#F4F0FF"/>
+  <circle cx="32" cy="32" r="24" fill="#6B47E8" fill-opacity="0.12"/>
+  <!-- Lightbulb / Innovation beacon -->
+  <path d="M26 38H38M28 42H36M32 16C25.3726 16 20 21.3726 20 28C20 32.1444 22.1009 35.7989 25.2974 37.9158C25.7366 38.2066 26 38.6946 26 39.2199V40C26 41.1046 26.8954 42 28 42H36C37.1046 42 38 41.1046 38 40V39.2199C38 38.6946 38.2634 38.2066 38.7026 37.9158C41.8991 35.7989 44 32.1444 44 28C44 21.3726 38.6274 16 32 16Z" fill="#6B47E8" fill-opacity="0.2" stroke="#6B47E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Filament spark -->
+  <path d="M32 23V29M29 26H35" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

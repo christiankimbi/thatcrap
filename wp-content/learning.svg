@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#F4F0FF"/>
+  <circle cx="32" cy="32" r="24" fill="#6B47E8" fill-opacity="0.12"/>
+  <!-- Open book pages -->
+  <path d="M19 40C23.5 38 27.5 39 32 41C36.5 39 40.5 38 45 40V24C40.5 22 36.5 23 32 25C27.5 23 23.5 22 19 24V40Z" fill="#6B47E8" fill-opacity="0.2" stroke="#6B47E8" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M32 25V41" stroke="#6B47E8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Graduation / light glow -->
+  <path d="M32 15L39 19L32 23L25 19L32 15Z" fill="#F59E0B"/>
+  <path d="M38 20.5V26" stroke="#F59E0B" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
